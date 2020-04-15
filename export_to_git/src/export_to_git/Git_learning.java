@@ -9,4 +9,7 @@ public class Git_learning {
 	public void om() {
 		System.out.println("This is for om branch");
 	}
+	public void jay() {
+		System.out.println("this is for jay branch");
+	}
 }
