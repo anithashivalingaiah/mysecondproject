@@ -8,8 +8,7 @@ public class Git_learning {
 	
 	public void om() {
 		System.out.println("This is for om branch");
+		System.out.println("deleted a statement");
 	}
-	public void jay() {
-		System.out.println("this is for jay branch");
-	}
+	
 }
